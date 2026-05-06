@@ -51,3 +51,4 @@ Type `!panel` in any channel to bring up the project management panel.
   - `Guild Members`
   - `Guild Messages`
   - `Message Content`
+More updates coming soon...
